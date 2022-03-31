@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Senazz
-- 👀 I’m interested in game developer
+- 👀 I’m interested in app and web developer
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on my project
 - 📫 you can DM on my instagram @view_of_angle
