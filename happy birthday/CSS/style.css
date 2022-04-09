@@ -1,0 +1,45 @@
+.kartu{
+  background-color: #FBD6D2;
+    text-align: center;
+    position: relative;
+
+}
+h1{
+  font-size:5em;
+  text-align: center;
+  font-family: 'Luckiest Guy', cursive;
+}
+.foto{
+  background-image: url(../picture/orang.png);
+  width: 415px;
+  height: 700px;
+  position: absolute;
+  top: 200px;
+  left: 1px;
+}
+.a{
+  display: inline;
+  color: #4D77FF;
+}
+.b{
+  display: inline;
+  color: #56BBF1;
+}
+.c{
+  display: inline;
+  color: #5EE6EB;
+}
+.motivasi{
+  position: absolute;
+  top: 450px;
+  left: 30%;
+  width: 45%
+}
+.foto2{
+  background-image: url(../picture/acca.jpeg);
+  width: 238px;
+  height: 300px;
+  position: absolute;
+  bottom: 1px;
+  right:  1px;
+}
